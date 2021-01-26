@@ -52,6 +52,7 @@
 		101998EE25BFB7CA00B3AF49 /* LocalizedJson */ = {
 			isa = PBXGroup;
 			children = (
+				101998FF25BFB87400B3AF49 /* String */,
 				101998EF25BFB7CA00B3AF49 /* LocalizedJsonApp.swift */,
 				101998F125BFB7CA00B3AF49 /* ContentView.swift */,
 				101998F325BFB7CC00B3AF49 /* Assets.xcassets */,
@@ -67,6 +68,13 @@
 				101998F625BFB7CC00B3AF49 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		101998FF25BFB87400B3AF49 /* String */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = String;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
